@@ -1,3 +1,3 @@
 # github-demo
 This is just a demo file
-i'll work with github
+i'll work with github and git.
